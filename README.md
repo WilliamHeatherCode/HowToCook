@@ -21,6 +21,8 @@ To run the website through docker:
 ```docker-compose up```
 The website can then be accessed from http://localhost:3000/
 
-
+Premade login for the website:
+Email: william.b.heather@gmail.com
+Password: Test123
 
 
